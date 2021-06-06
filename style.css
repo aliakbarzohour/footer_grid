@@ -16,7 +16,7 @@ footer {
     position: relative;
     width: 100%;
     padding: 50px;
-    background-color: rgb(19, 75, 180);
+    background-color: rgb(31, 46, 74);
 }
 
 footer .container {
@@ -127,7 +127,7 @@ footer .container .sec p {
 
 .copyrighttext {
     width: 100%;
-    background: #18387e;
+    background: #192742;
     color: #fff;
     padding: 8px 100px;
     text-align: center;
